@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fZJj2AfdyPZPM5HboYf/lbC68p/ouWWITB7bDdJOvmI=",
+  "Source": "CI-Web-API",
+  "BasePath": "_content/CI-Web-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
